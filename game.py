@@ -77,7 +77,7 @@ def battle():
 # def death():
 """     if playerhealth <=0:
          print "YOU ARE DEAD."
-         print
+         # change something from within the other functions to make this go back to some sort of checkpoint/point in the main story.
 """
 
 
